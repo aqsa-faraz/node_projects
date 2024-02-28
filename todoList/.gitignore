@@ -5,6 +5,5 @@
 /dist
 
 # Ignore editor/IDE-specific files and directories
+*.js
 .vscode
-.idea
-.DS_Store

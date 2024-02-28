@@ -1,6 +1,8 @@
 # Ignore node_modules
 /node_modules
 
+*.js
+
 # Ignore any built TypeScript files (javaScript output)
 /dist
 
