@@ -12,7 +12,6 @@ let healthPotionHealAmount = 30;
 let healthPotionDropChance = 50; // percentage
 let running = true;
 console.log(chalk.italic.red("Welcome to the Dungeon"));
-// shortcut for copying lines: ctrl+shift+down arrow
 GAME: while (running) {
     console.log("------------------------------------------");
     let enemyHealth = Math.floor(Math.random() * 75);
