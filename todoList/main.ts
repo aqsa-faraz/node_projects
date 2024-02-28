@@ -4,7 +4,6 @@ let todos: string[] = ["Wake up at 5 am", "Offer namaz at 6:15 am", "Workout at 
 
 let _continue= 0;
 
-
 async function createTodo(todoArr: string[]){
 
     do{
